@@ -12,4 +12,4 @@ Create a menu overlay with CSS and HTML. Animated toggler.
 
 ### Menu
 
-![](/.MenusOverlay.png)
+![](./MenusOverlay.png)
